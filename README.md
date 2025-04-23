@@ -32,7 +32,7 @@ I welcome pull requests, bug fixes and issue reports. Before proposing a change,
 
 
 ## Developer 
-* **[Sumit Yadav](https://www.linkedin.com/in/sumiie24/)**
+ravi kuamr
 
 
 
